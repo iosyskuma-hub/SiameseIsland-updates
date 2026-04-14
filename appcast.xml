@@ -5,5 +5,14 @@
         <link>https://raw.githubusercontent.com/iosyskuma-hub/ClaudeNotchIsland-updates/main/appcast.xml</link>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
+        <item>
+        <title>Version 0.2.0</title>
+        <pubDate>Tue, 14 Apr 2026 14:50:22 +0000</pubDate>
+        <sparkle:version>202604141449</sparkle:version>
+        <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[Release 0.2.0]]></description>
+        <enclosure url="https://github.com/iosyskuma-hub/ClaudeNotchIsland-updates/raw/main/releases/ClaudeNotchIsland-0.2.0.zip" sparkle:edSignature="adkWiQ0tRT49IhSFlxK0vEcS1/s0vWF2H010cUgVMOjROGtBF4YaLb2fY79x0Zobl4RvDX/ETHScFJ1NP1OODg==" length="1317327" type="application/octet-stream"/>
+    </item>
     </channel>
 </rss>
