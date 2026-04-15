@@ -14,5 +14,14 @@
         <description><![CDATA[Release 0.2.0]]></description>
         <enclosure url="https://github.com/iosyskuma-hub/ClaudeNotchIsland-updates/raw/main/releases/ClaudeNotchIsland-0.2.0.zip" sparkle:edSignature="adkWiQ0tRT49IhSFlxK0vEcS1/s0vWF2H010cUgVMOjROGtBF4YaLb2fY79x0Zobl4RvDX/ETHScFJ1NP1OODg==" length="1317327" type="application/octet-stream"/>
     </item>
+        <item>
+        <title>Version 0.3.0</title>
+        <pubDate>Wed, 15 Apr 2026 14:13:49 +0000</pubDate>
+        <sparkle:version>202604151412</sparkle:version>
+        <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[Release 0.3.0]]></description>
+        <enclosure url="https://github.com/iosyskuma-hub/ClaudeNotchIsland-updates/raw/main/releases/ClaudeNotchIsland-0.3.0.zip" sparkle:edSignature="xadxgMFlgD5WIMqAwCqAE4KKAF8znUAyKlvMZVnMmQIv6R3eS4qh6UkJn/Yync87ZaR37XBUr9ZDuL1NRkfABA==" length="1330365" type="application/octet-stream"/>
+    </item>
     </channel>
 </rss>
