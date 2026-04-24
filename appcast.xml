@@ -41,5 +41,14 @@
         <description><![CDATA[Release 0.4.6]]></description>
         <enclosure url="https://github.com/iosyskuma-hub/SiameseIsland-updates/raw/main/releases/SiameseIsland-0.4.6.zip" sparkle:edSignature="VmeGsEsEGbBE1l9pNrkG50zIePOlXUeq9IA2ynM7lPhBevHBfBl1faNX00A6b9h8SkG043bzTuu+hIO+SpLmCw==" length="1663968" type="application/octet-stream"/>
     </item>
+        <item>
+        <title>Version 0.4.7</title>
+        <pubDate>Fri, 24 Apr 2026 02:08:54 +0000</pubDate>
+        <sparkle:version>202604240207</sparkle:version>
+        <sparkle:shortVersionString>0.4.7</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[Release 0.4.7]]></description>
+        <enclosure url="https://github.com/iosyskuma-hub/SiameseIsland-updates/raw/main/releases/SiameseIsland-0.4.7.zip" sparkle:edSignature="TeWs64nhwLS5cwuibe6H8FHzI5yVZVyA19acBMOQ6rfHgH54AX8NJ+q2rI2ZpzV/TDDWIkRAl7Kjww3gVmT+Ag==" length="1670441" type="application/octet-stream"/>
+    </item>
     </channel>
 </rss>
